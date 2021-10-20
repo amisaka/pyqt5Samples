@@ -109,6 +109,7 @@ class Ui_MainWindow(object):
 		self.actionExit.triggered.connect(MainWindow.close)
 		self.actionOpen_csv_file.triggered.connect(self.getFile)
 		
+		
 	def Update(self,value):
 		print("Value from Combo Box:",value)
 		plt.clf()

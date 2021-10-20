@@ -1,0 +1,4 @@
+pyqt5 with pandas
+https://www.semicolonworld.com/question/58510/how-to-display-a-pandas-data-frame-with-pyqt5
+
+
